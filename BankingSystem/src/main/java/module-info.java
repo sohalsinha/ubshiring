@@ -1,0 +1,3 @@
+module BankingSystem {
+	exports banking;
+}
